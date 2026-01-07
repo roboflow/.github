@@ -23,6 +23,7 @@
 - [ ] I have added/updated tests for this change
 
 **Test details:**
+<!-- Describe what tests were added/updated and what they cover -->
 
 ## Checklist
 

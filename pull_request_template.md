@@ -1,25 +1,38 @@
-# Description
+## What does this PR do?
 
-Please include a summary of the change and which issue is fixed or implemented. Please also include relevant motivation and context (e.g. links, docs, tickets etc.).
+<!-- Provide a clear and concise description of the changes -->
 
-List any dependencies that are required for this change.
+**Related Issue(s):** <!-- Link to related issues, e.g., Fixes #123 or Related to #456 -->
 
-## Type of change
+## Type of Change
 
-Please delete options that are not relevant.
+<!-- Please select one and delete the others, or describe if Other -->
 
--   [ ] Bug fix (non-breaking change which fixes an issue)
--   [ ] New feature (non-breaking change which adds functionality)
--   [ ] This change requires a documentation update
+- Bug fix (non-breaking change that fixes an issue)
+- New feature (non-breaking change that adds functionality)
+- Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- Documentation update
+- Refactoring (no functional changes)
+- Other:
 
-## How has this change been tested, please provide a testcase or example of how you tested the change?
+## Testing
 
-YOUR_ANSWER
+<!-- Describe how you tested your changes -->
 
-## Any specific deployment considerations
+- [ ] I have tested this change locally
+- [ ] I have added/updated tests for this change
 
-For example, documentation changes, usability, usage/costs, secrets, etc.
+**Test details:**
+<!-- Describe what tests were added/updated and what they cover -->
 
-## Docs
+## Checklist
 
--   [ ] Docs updated? What were the changes:
+- [ ] My code follows the style guidelines of this project
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code where necessary, particularly in hard-to-understand areas
+- [ ] My changes generate no new warnings or errors
+- [ ] I have updated the documentation accordingly (if applicable)
+
+## Additional Context
+
+<!-- Add any other context, screenshots, or notes about the PR here -->
